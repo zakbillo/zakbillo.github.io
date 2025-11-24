@@ -14,7 +14,7 @@ output:
 <div class="profile-text">
 <p>
 
-I am an Epidemiology MPH candidate (’26) at **Columbia University Mailman School of Public Health**, applying to Biostatistics PhD programs for Fall 2026. 
+I am a Epidemiology Master of Public Health candidate (’26) at the **Columbia University Mailman School of Public Health**, applying to Biostatistics PhD programs for Fall 2026. 
 
 My work is on **graphical models** for **causal inference**: **structure learning**, **complex networks**, and **algorithmic fairness**. Interests include aging, neuroscience, cheminformatics, and social bias mitigation. I conduct research under the supervision of **Prof. Daniel Malinsky**.
 
